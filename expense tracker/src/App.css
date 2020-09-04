@@ -1,0 +1,33 @@
+
+.App {
+  text-align: center;
+
+}
+.label-left{
+  background-color:red;
+  float:"left";
+  padding: 10px;
+  margin: 13px;
+}
+
+.label-right{
+  background-color:greenyellow;
+  float:"right";
+  padding: 10px;
+  margin: 13px;
+}
+.label-container{
+    margin: 30px;
+}
+
+.display{
+  font-weight: bolder;
+  font-size: large;
+}
+.minus{
+  background-color: red;
+
+}
+.plus{
+  background-color: greenyellow;
+}
